@@ -1,3 +1,2 @@
-2025/09/05-16:54:00.193 e0c Reusing MANIFEST E:/Fall2025/Unrealprojects2025/MyProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/09/05-16:54:00.223 e0c Recovering log #3
-2025/09/05-16:54:00.234 e0c Reusing old log E:/Fall2025/Unrealprojects2025/MyProject2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/09/15-15:00:15.265 4268 Creating DB C:/Users/kcoope47/Documents/GitHub/DemoprojrepoKatieC/MyProject2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/09/15-15:00:15.278 4268 Reusing MANIFEST C:/Users/kcoope47/Documents/GitHub/DemoprojrepoKatieC/MyProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
